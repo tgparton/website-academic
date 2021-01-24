@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Thomas Parton
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: University of Cambridge
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,15 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Nanoscience and Nanotechnology 2018-(2022)
+  - course: MRes in Nanoscience and Nanotechnology 2017-2018
+  - course: MSci Natural Sciences
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
