@@ -17,10 +17,7 @@ organizations:
 bio: short bio
 
 # Interests to show in About widget
-interests:
-- one
-- two
-- three
+interests: []
 
 # Education to show in About widget
 education:
