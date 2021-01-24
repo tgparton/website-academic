@@ -11,16 +11,16 @@ role: PhD student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Cambridge
-  url: https://www.stanford.edu/
+  url: https://www.ch.cam.ac.uk/group/vignolini/person/tgp27
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: short bio
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- one
+- two
+- three
 
 # Education to show in About widget
 education:
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:thomas.g.parton@gmail.com
+  link: mailto:tgp27@cam.ac.uk
 
 - icon: twitter
   icon_pack: fab
@@ -69,9 +69,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a PhD student.... summary paragraph here.
 
 <!-- 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
